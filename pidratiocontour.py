@@ -1,4 +1,4 @@
-## python script for plotting ground acceleration, velocity, and displacement
+## python script for plotting earthquake building response in a region
 
 import numpy as np
 import matplotlib.pyplot as plt
